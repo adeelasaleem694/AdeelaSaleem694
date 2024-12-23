@@ -23,6 +23,12 @@ I'm a passionate **Computer Science student** with a strong interest in **Machin
 - 📘  Diving into **Data Analysis** and **Machine Learning**
 - 💡 Working with real-world datasets and implementing **ML models**
 
+### Previous GitHub Account  
+I also worked on several projects under my previous account: [AdeelaSaleem](https://github.com/AdeelaSaleem).  
+Although the account is locked, it contains earlier projects focused on:  
+- Frontend projects   
+- DSA projects 
+
 ## Connect with Me  
 - 📧 Email: [adeela88sal@gmail.com]  
 - 💼 LinkedIn: [https://www.linkedin.com/in/adeela-saleem-a89414277//)  
