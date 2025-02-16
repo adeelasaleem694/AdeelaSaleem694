@@ -8,7 +8,7 @@ I'm a passionate **Computer Science student** with a strong interest in **Machin
 
 ## About Me  
 - 🎓 Pursuing a degree in **Computer Science**  
-- 💻 Aspiring ** Aspiring Machine Learning Engineer**  
+- 💻 Aspiring **Aspiring Machine Learning Engineer**  
 - 🌱 Currently learning **Pandas** and working on Data Analysis projects
 - 🔭 Working on personal projects to enhance my problem-solving skills  
 
